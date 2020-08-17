@@ -1,0 +1,15 @@
+//css styles not working
+
+.container{
+    margin: 0 auto;
+    width: 600px;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}
+
+input{
+    margin-left: 550px;
+}
